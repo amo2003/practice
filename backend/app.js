@@ -6,7 +6,7 @@ function app() {
 
       <h1>Jananga Chandima</h1>
 
-      gggg
+      <h1>Sliit</h1>
 
     </div>
   );
